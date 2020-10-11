@@ -1,0 +1,4 @@
+- project: abhishekk40/zuul-testconfig
+    check:
+      jobs:
+        - noop
