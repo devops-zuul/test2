@@ -1,4 +1,5 @@
 - project:
+    name: abhishekk40/sampleproject
     check:
       jobs:
         - noop
