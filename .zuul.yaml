@@ -1,5 +1,5 @@
 - project:
-    name: abhishekk40/sampleproject
+    name: abhishekk40/test2
     check:
       jobs:
         - noop
