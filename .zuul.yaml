@@ -2,7 +2,7 @@
     name: testjob
     run: playbooks/testjob.yaml
 
-- project: devops-zuul/test2
+- project:
     check:
       jobs:
         - testjob
